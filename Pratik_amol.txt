@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 push your code to GitHub
 
 link local master → remote master
@@ -6,3 +7,8 @@ fix the warning permanently
 -----------------------------------------
 ***************sudarshan*****************
 -----------------------------------------
+=======
+Get daily insights and analysis on the latest news, politics, and global events. Get your daily global news with The Christian Science Monitor podcast. Listen today! Browse Topics. Get Free Newsletters. Subscribe Online.
+
+>>>>>>Amol End Data <<<<<<<<<<
+>>>>>>> 9bcace78fcf9d7e09286ca4b450d6aeffa0ac7ce

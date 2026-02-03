@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 push your code to GitHub
 
 link local master → remote master
@@ -7,6 +8,16 @@ fix the warning permanently
 -----------------------------------------
 ***************sudarshan*****************
 -----------------------------------------
+=======
+*****************************************************************************
+Important Data
+A few common things people mean (tell me which one fits, or add your own):
+Use Git with Python projects that process data
+(best practices for versioning datasets, .gitignore, DVC, etc.)
+Access data from GitHub using Python
+  <<<<<<<<<<<<<<<<<<<By Shubham Patil  >>>>>>>>>>>>>>>>>>>>>>>>.
+ ******************************************************************************
+>>>>>>> cf253c8853f95694192575d680e3575ae9848e2d
 =======
 Get daily insights and analysis on the latest news, politics, and global events. Get your daily global news with The Christian Science Monitor podcast. Listen today! Browse Topics. Get Free Newsletters. Subscribe Online.
 

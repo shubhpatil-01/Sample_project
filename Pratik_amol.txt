@@ -64,5 +64,18 @@ git commit -m "Describe what changed"
 git pull          # get latest changes
 git push          # s
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 Sudarshan satpute this changes 
-i love pyspark
+i love pyspark 
+qwertyuiop;xcvbnm,
+xcvbnm,./
+=======
+
+>>>> Amol Changes <<<<<<
+sadfg
+fsghjhgsd
+dzfdgfhgjasdfsdgh
+fdghfhjkjytdfzf
+dthyjtukiujhgfdzxfb
+>>>>>>> Changes End <<<<<<<
+>>>>>>> d44dd236399b5f07ed14ace3d93619af54d8c8c5

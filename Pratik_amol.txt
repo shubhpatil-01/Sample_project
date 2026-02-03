@@ -64,3 +64,11 @@ git commit -m "Describe what changed"
 git pull          # get latest changes
 git push          # s
 >>>>>>> Stashed changes
+
+>>>> Amol Changes <<<<<<
+sadfg
+fsghjhgsd
+dzfdgfhgjasdfsdgh
+fdghfhjkjytdfzf
+dthyjtukiujhgfdzxfb
+>>>>>>> Changes End <<<<<<<

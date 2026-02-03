@@ -64,6 +64,7 @@ git commit -m "Describe what changed"
 git pull          # get latest changes
 git push          # s
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 
 
 Where Git Bash stores data
@@ -71,3 +72,20 @@ config files, SSH keys, repos, cache, etc.
 How to work with data in Git Bash
 reading files, moving data, CSV/JSON handling, piping commands
 Git repository data  By Shubham Patil
+=======
+<<<<<<< HEAD
+Sudarshan satpute this changes 
+i love pyspark 
+qwertyuiop;xcvbnm,
+xcvbnm,./
+=======
+
+>>>> Amol Changes <<<<<<
+sadfg
+fsghjhgsd
+dzfdgfhgjasdfsdgh
+fdghfhjkjytdfzf
+dthyjtukiujhgfdzxfb
+>>>>>>> Changes End <<<<<<<
+>>>>>>> d44dd236399b5f07ed14ace3d93619af54d8c8c5
+>>>>>>> e33028a420624ceb467247ef2d14ab5fdb6dd173

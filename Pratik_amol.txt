@@ -64,3 +64,10 @@ git commit -m "Describe what changed"
 git pull          # get latest changes
 git push          # s
 >>>>>>> Stashed changes
+
+
+Where Git Bash stores data
+config files, SSH keys, repos, cache, etc.
+How to work with data in Git Bash
+reading files, moving data, CSV/JSON handling, piping commands
+Git repository data  By Shubham Patil

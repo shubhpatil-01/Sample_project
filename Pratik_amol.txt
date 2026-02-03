@@ -66,9 +66,6 @@ git push          # s
 >>>>>>> Stashed changes
 
 >>>> Amol Changes <<<<<<
-sadfg
-fsghjhgsd
-dzfdgfhgjasdfsdgh
-fdghfhjkjytdfzf
-dthyjtukiujhgfdzxfb
+I am amol gade.
+From Pune Maharashtra.
 >>>>>>> Changes End <<<<<<<

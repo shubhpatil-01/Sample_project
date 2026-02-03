@@ -48,44 +48,7 @@ A snapshot of your files at a moment in time.
 git add .
 git commit -m "Meaningful message"
 Branch
-A parallel line of development (for features, experiments, fixes).
-git branch new-feature
-git checkout new-feature
-# or
-git switch -c new-feature
-Remote
-A copy of your repo stored elsewhere (like GitHub).
-git remote add origin URL
-git push -u origin main
-Everyday Git Workflow
-git status        # see what's changed
-git add file.py   # stage changes
-git commit -m "Describe what changed"
-git pull          # get latest changes
-git push          # s
->>>>>>> Stashed changes
-<<<<<<< HEAD
+A parallel line of devel
 
 
-Where Git Bash stores data
-config files, SSH keys, repos, cache, etc.
-How to work with data in Git Bash
-reading files, moving data, CSV/JSON handling, piping commands
-Git repository data  By Shubham Patil
-=======
-<<<<<<< HEAD
-Sudarshan satpute this changes 
-i love pyspark 
-qwertyuiop;xcvbnm,
-xcvbnm,./
-=======
-
->>>> Amol Changes <<<<<<
-sadfg
-fsghjhgsd
-dzfdgfhgjasdfsdgh
-fdghfhjkjytdfzf
-dthyjtukiujhgfdzxfb
->>>>>>> Changes End <<<<<<<
->>>>>>> d44dd236399b5f07ed14ace3d93619af54d8c8c5
->>>>>>> e33028a420624ceb467247ef2d14ab5fdb6dd173
+By Shubham Patil
